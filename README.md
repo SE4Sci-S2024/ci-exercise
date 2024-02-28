@@ -1,6 +1,6 @@
 APC 524 - Homework 3
 
-Start by creating your private repo https://github.com/APC524-F2023/ci-exercice-{NETID}. Clone the present repo and push it to your private repo.
+Start by creating your private repo `https://github.com/SE4Sci-S2024/ci-exercise-{lastName}-{firstName}`. Clone the present repo and push it to your private repo.
 
 In this repo is a basic project, with some code in `src/unc/__init__.py` and some tests in `tests/`. The
 main code has no dependencies other than Python 3.8+, while the tests require `pytest` and `uncertainties`.
